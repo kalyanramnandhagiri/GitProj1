@@ -15,5 +15,4 @@ public class TestClass
 		NetBanking nb=new NetBanking();
 		System.out.println(nb.addBal(12345678, 20000));
 	}
-
 }
